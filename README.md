@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Peeps!
+
+Rujuta here, I am a Computational Biologist. 
