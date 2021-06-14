@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi peeps!
+
+Rujuta here, I like coding in Python.
+
